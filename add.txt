@@ -13,4 +13,3 @@ cdn.2020111.xyz#cdn.2020111.xyz
 cfip.1323123.xyz#cfip.1323123.xyz
 xn--b6gac.eu.org#xn--b6gac.eu.org
 cloudflare-ip.mofashi.ltd#cloudflare-ip.mofashi.ltd
-freeyx.cloudflare88.eu.org#freeyx.cloudflare88.eu.org
