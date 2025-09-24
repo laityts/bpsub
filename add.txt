@@ -1,8 +1,5 @@
 cmcc.090227.xyz#CMCC
-bestcf.top#VPS789维护优选
-cfip.xxxxxxxx.tk#OTC维护优选
 cdn.2020111.xyz#cdn.2020111.xyz
-cfip.cfcdn.vip#cfip.cfcdn.vip
 cf.0sm.com#cf.0sm.com
 cfip.1323123.xyz#cfip.1323123.xyz
 cloudflare-ip.mofashi.ltd#cloudflare-ip.mofashi.ltd
