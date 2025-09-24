@@ -2,7 +2,9 @@
 45.159.50.215:30003#日本2
 140.235.37.15:50000#日本3
 172.104.110.10:555#日本4
-cmcc.090227.xyz#CMCC
+ct.090227.xyz#电信优选
+cmcc.090227.xyz#移动优选
+cf.090227.xyz#三网自适应
 cf.0sm.com#cf.0sm.com
 www.visa.cn#visa官方优选
 time.is#time.is官方优选
