@@ -13,8 +13,16 @@ cf.877774.xyz#秋名山维护优选
 node.hubp.de#node.hubp.de
 bestcf.030101.xyz#bestcf.030101.xyz
 vless.keepfuck.me#vless.keepfuck.me
-ip.164746.xyz#ZhiXuanWang维护优选
+ip.164746.xyz#ip.164746.xyz
 cdn.2020111.xyz#cdn.2020111.xyz
 cfip.1323123.xyz#cfip.1323123.xyz
 xn--b6gac.eu.org#xn--b6gac.eu.org
 cloudflare-ip.mofashi.ltd#cloudflare-ip.mofashi.ltd
+nrt.xxxxxxxx.nyc.mn#nrt.xxxxxxxx.nyc.mn
+cf.900501.xyz#cf.900501.xyz
+freeyx.cloudflare88.eu.org#freeyx.cloudflare88.eu.org
+fn.130519.xyz#fn.130519.xyz
+nrtcfdns.zone.id#nrtcfdns.zone.id
+saas.sin.fan#saas.sin.fan
+www.shopify.com#www.shopify.com
+mfa.gov.u#mfa.gov.uaa
