@@ -1,20 +1,11 @@
 166.88.100.12:30025#日本1
 45.159.50.215:30003#日本2
 140.235.37.15:50000#日本3
-172.104.110.10:555#日本4
-ct.090227.xyz#电信优选
-cmcc.090227.xyz#移动优选
 cf.090227.xyz#三网自适应
 cf.0sm.com#cf.0sm.com
-www.visa.cn#visa官方优选
-time.is#time.is官方优选
-icook.hk#icook.hk官方优选
 cf.877774.xyz#秋名山维护优选
 node.hubp.de#node.hubp.de
-bestcf.030101.xyz#bestcf.030101.xyz
 vless.keepfuck.me#vless.keepfuck.me
-ip.164746.xyz#ip.164746.xyz
-cdn.2020111.xyz#cdn.2020111.xyz
 cfip.1323123.xyz#cfip.1323123.xyz
 xn--b6gac.eu.org#xn--b6gac.eu.org
 cloudflare-ip.mofashi.ltd#cloudflare-ip.mofashi.ltd
@@ -23,5 +14,4 @@ cf.900501.xyz#cf.900501.xyz
 freeyx.cloudflare88.eu.org#freeyx.cloudflare88.eu.org
 fn.130519.xyz#fn.130519.xyz
 nrtcfdns.zone.id#nrtcfdns.zone.id
-saas.sin.fan#saas.sin.fan
 www.shopify.com#www.shopify.com
