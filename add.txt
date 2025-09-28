@@ -1,8 +1,8 @@
 166.88.100.12:30025#日本1
 45.159.50.215:30003#日本2
 140.235.37.15:50000#日本3
-cf.090227.xyz#三网自适应
 cf.0sm.com#cf.0sm.com
+cf.090227.xyz#三网自适应
 cf.877774.xyz#秋名山维护优选
 node.hubp.de#node.hubp.de
 vless.keepfuck.me#vless.keepfuck.me
