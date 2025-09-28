@@ -18,13 +18,3 @@ cdn.2020111.xyz#cdn.2020111.xyz
 cfip.1323123.xyz#cfip.1323123.xyz
 xn--b6gac.eu.org#xn--b6gac.eu.org
 cloudflare-ip.mofashi.ltd#cloudflare-ip.mofashi.ltd
-104.26.12.31:8443#104.26.12.31
-snipaste2.speedip.eu.org:8443#snipaste2.speedip.eu.org
-104.26.13.31:2087#104.26.13.31
-snipaste1.speedip.eu.org:2087#snipaste1.speedip.eu.org
-snipaste5.speedip.eu.org:2083#snipaste5.speedip.eu.org
-snipaste3.speedip.eu.org:8443#snipaste3.speedip.eu.org
-snipaste4.speedip.eu.org:443#snipaste4.speedip.eu.org
-snipaste2.speedip.eu.org:443#snipaste2.speedip.eu.org
-snipaste1.speedip.eu.org:8443#snipaste1.speedip.eu.org
-104.26.12.31:2087#104.26.12.31
