@@ -15,3 +15,4 @@ freeyx.cloudflare88.eu.org#freeyx.cloudflare88.eu.org
 fn.130519.xyz#fn.130519.xyz
 nrtcfdns.zone.id#nrtcfdns.zone.id
 www.shopify.com#www.shopify.com
+bestcfv4.030101.xyz#bestcfv4.030101.xyz
