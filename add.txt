@@ -25,4 +25,3 @@ fn.130519.xyz#fn.130519.xyz
 nrtcfdns.zone.id#nrtcfdns.zone.id
 saas.sin.fan#saas.sin.fan
 www.shopify.com#www.shopify.com
-mfa.gov.u#mfa.gov.uaa
