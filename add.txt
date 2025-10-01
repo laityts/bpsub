@@ -31,3 +31,4 @@ cf.zhetengsha.eu.org#cf.zhetengsha.eu.org
 cdn.2020111.xyz#cdn.2020111.xyz
 bestcf.top#bestcf.top
 cloudflare.182682.xyz#cloudflare.182682.xyz
+mfa.gov.ua#mfa.gov.ua
