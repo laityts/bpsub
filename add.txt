@@ -30,5 +30,6 @@ cnamefuckxxs.yuchen.icu#cnamefuckxxs.yuchen.icu
 cf.zhetengsha.eu.org#cf.zhetengsha.eu.org
 cdn.2020111.xyz#cdn.2020111.xyz
 bestcf.top#bestcf.top
-cloudflare.182682.xyz#cloudflare.182682.xyz
-mfa.gov.ua#mfa.gov.ua
+mfa.gov.ua#乌克兰政府官网
+*.tencentapp.cn#泛域名 ktff维护
+cf.cloudflare.182682.xyz#泛域名 wetest.vip维护
