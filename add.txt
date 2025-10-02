@@ -10,26 +10,26 @@ snipaste2.speedip.eu.org:2087#snippets-8
 166.88.100.12:30025#日本1
 45.159.50.215:30003#日本2
 140.235.37.15:50000#日本3
-cf.0sm.com#cf.0sm.com
+mfa.gov.ua#乌克兰政府官网
 cf.090227.xyz#三网自适应
 cf.877774.xyz#秋名山维护优选
-node.hubp.de#node.hubp.de
-vless.keepfuck.me#vless.keepfuck.me
-cfip.1323123.xyz#cfip.1323123.xyz
-xn--b6gac.eu.org#xn--b6gac.eu.org
-cloudflare-ip.mofashi.ltd#cloudflare-ip.mofashi.ltd
-nrt.xxxxxxxx.nyc.mn#nrt.xxxxxxxx.nyc.mn
-cf.900501.xyz#cf.900501.xyz
-freeyx.cloudflare88.eu.org#freeyx.cloudflare88.eu.org
-fn.130519.xyz#fn.130519.xyz
-nrtcfdns.zone.id#nrtcfdns.zone.id
-www.shopify.com#www.shopify.com
-bestcfv4.030101.xyz#bestcfv4.030101.xyz
-cdn.tzpro.xyz#cdn.tzpro.xyz
-cnamefuckxxs.yuchen.icu#cnamefuckxxs.yuchen.icu
-cf.zhetengsha.eu.org#cf.zhetengsha.eu.org
-cdn.2020111.xyz#cdn.2020111.xyz
-bestcf.top#bestcf.top
-mfa.gov.ua#乌克兰政府官网
-*.tencentapp.cn#泛域名 ktff维护
+www.shopify.com#Shopify官方优选
+cf.tencentapp.cn#泛域名 ktff维护
 cf.cloudflare.182682.xyz#泛域名 wetest.vip维护
+cf.0sm.com#cf.0sm.com
+bestcf.top#bestcf.top
+node.hubp.de#node.hubp.de
+cf.900501.xyz#cf.900501.xyz
+fn.130519.xyz#fn.130519.xyz
+cdn.tzpro.xyz#cdn.tzpro.xyz
+cdn.2020111.xyz#cdn.2020111.xyz
+xn--b6gac.eu.org#xn--b6gac.eu.org
+nrtcfdns.zone.id#nrtcfdns.zone.id
+cfip.1323123.xyz#cfip.1323123.xyz
+vless.keepfuck.me#vless.keepfuck.me
+nrt.xxxxxxxx.nyc.mn#nrt.xxxxxxxx.nyc.mn
+bestcfv4.030101.xyz#bestcfv4.030101.xyz
+cf.zhetengsha.eu.org#cf.zhetengsha.eu.org
+cnamefuckxxs.yuchen.icu#cnamefuckxxs.yuchen.icu
+freeyx.cloudflare88.eu.org#freeyx.cloudflare88.eu.org
+cloudflare-ip.mofashi.ltd#cloudflare-ip.mofashi.ltd
