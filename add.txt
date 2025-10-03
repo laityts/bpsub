@@ -23,6 +23,7 @@ cf.900501.xyz#cf.900501.xyz
 fn.130519.xyz#fn.130519.xyz
 cdn.tzpro.xyz#cdn.tzpro.xyz
 cdn.2020111.xyz#cdn.2020111.xyz
+axrp.460110.xyz#axrp.460110.xyz
 xn--b6gac.eu.org#xn--b6gac.eu.org
 nrtcfdns.zone.id#nrtcfdns.zone.id
 cfip.1323123.xyz#cfip.1323123.xyz
