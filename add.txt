@@ -17,7 +17,6 @@ www.shopify.com#Shopify官方优选
 cf.tencentapp.cn#泛域名 ktff维护
 cf.cloudflare.182682.xyz#泛域名 wetest.vip维护
 cf.0sm.com#cf.0sm.com
-bestcf.top#bestcf.top
 node.hubp.de#node.hubp.de
 cf.900501.xyz#cf.900501.xyz
 fn.130519.xyz#fn.130519.xyz
